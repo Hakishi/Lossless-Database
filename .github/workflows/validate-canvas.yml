@@ -60,17 +60,24 @@ jobs:
           sudo systemctl stop clamav-freshclam || true
           sudo pkill -f freshclam || true
           sudo freshclam || echo "Warning: freshclam database update failed, proceeding only if local definitions exist"
-          if ls /var/lib/clamav/*.cvd /var/lib/clamav/*.cld /var/lib/clamav/*.cud >/dev/null 2>&1; then
+          CLAMAV_DEFS_AVAILABLE=false
+          if [ ! -d /var/lib/clamav ]; then
+            echo "Warning: /var/lib/clamav not found; malware scan will be skipped."
+          elif find /var/lib/clamav -maxdepth 1 -type f \( -name "*.cvd" -o -name "*.cld" -o -name "*.cud" \) | grep -q .; then
+            CLAMAV_DEFS_AVAILABLE=true
             echo "ClamAV definitions found; scanning changed files."
           else
-            echo "Warning: no ClamAV definitions available; skipping malware scan to avoid false workflow failures."
-            exit 0
+            echo "Warning: no ClamAV definitions found in /var/lib/clamav; malware scan will be skipped."
           fi
           if [ -f /tmp/changed-files.txt ]; then
             while IFS= read -r file; do
               if [ -f "$file" ]; then
-                echo "Scanning: $file"
-                clamscan "$file"
+                if [ "$CLAMAV_DEFS_AVAILABLE" = "true" ]; then
+                  echo "Scanning: $file"
+                  clamscan "$file"
+                else
+                  echo "Skipping malware scan for $file due to missing ClamAV definitions."
+                fi
               fi
             done < /tmp/changed-files.txt
           else
@@ -103,4 +110,3 @@ jobs:
       - name: Fail if validation failed
         if: steps.run-validation.outcome == 'failure'
         run: exit 1
-

@@ -1,6 +1,811 @@
 {
   "items": [
     {
+      "song": "The Emptiness Machine",
+      "artist": "Skar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983373952-Skar_-_The_Emptiness_Machine.flac"
+    },
+    {
+      "song": "Bol Na Halke Halke",
+      "artist": "Rahat Fateh Ali Khan & Mahalaxmi Iyer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-bol_na_halke_halke.flac"
+    },
+    {
+      "song": "House Baby (Verano Radio Edit)",
+      "artist": "C-Bool",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784982984809-C-BooL_-_House_Baby___House_Baby__Verano_Radio_Edit_.flac"
+    },
+    {
+      "song": "Ria",
+      "artist": "Rabbit Mac, Deepak",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sravan20060-1784979765649-02._Ria.flac"
+    },
+    {
+      "song": "Respect",
+      "artist": "Aretha Franklin",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981059640-Aretha_Franklin_-_Respect.flac"
+    },
+    {
+      "song": "Big Dreams",
+      "artist": "Jamie Myles Jr.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980948083-Jamie_Myles_Jr._-_Big_Dreams.flac"
+    },
+    {
+      "song": "My Band",
+      "artist": "D12",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983575993-D12_-_My_Band.flac"
+    },
+    {
+      "song": "Mallorca ich komm heim (Wellerman)",
+      "artist": "Stefan St\u00fcrmer, Bierkapit\u00e4n, Julian Sommer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977574633-Stefan_St_rmer_-_Mallorca_ich_komm_heim__Wellerman_.flac"
+    },
+    {
+      "song": "back to friends",
+      "artist": "sombr",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977644379-sombr_-_back_to_friends.flac"
+    },
+    {
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rendyudha-1784980184239-02._Super_Shy.flac"
+    },
+    {
+      "song": "Beete Lamhein (From -The Train-)",
+      "artist": "K.K.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-beete_lamhein_from_the_train.flac"
+    },
+    {
+      "song": "Narcos",
+      "artist": "Anuel AA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979535122-Anuel_AA_-_Narcos.flac"
+    },
+    {
+      "song": "California Love (mit Roger Troutman & Dr. Dre)",
+      "artist": "2Pac",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784974816479-2Pac_-_California_Love__Original_Version_.flac"
+    },
+    {
+      "song": "Coastline",
+      "artist": "Hollow Coves",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vivekvijayan20-1784978657086-1-01._Coastline.flac"
+    },
+    {
+      "song": "Time of Our Lives",
+      "artist": "Pitbull, Ne-Yo",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983453212-Ne-Yo_-_Time_of_Our_Lives.flac"
+    },
+    {
+      "song": "Abhi Kuch Dino Se",
+      "artist": "Pritam, Mohit Chauhan, & Neelesh Misra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-abhi_kuch_dino_se_from_dil_toh_baccha_hai_ji.flac"
+    },
+    {
+      "song": "Higher",
+      "artist": "The Game",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784983888410-The_Game_-_Higher.flac"
+    },
+    {
+      "song": "Ein Teil",
+      "artist": "CRO",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977609171-CRO_-_Ein_Teil.flac"
+    },
+    {
+      "song": "Daydream",
+      "artist": "Will Swinton",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976384770-Will_Swinton_-_Daydream.flac"
+    },
+    {
+      "song": "Alles neu",
+      "artist": "Peter Fox",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978809831-Peter_Fox_-_Alles_neu.flac"
+    },
+    {
+      "song": "Jiya Jale",
+      "artist": "Lata Mangeshkar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/amansarraf-1784975517329-09_-_Jiya_Jale__Dil_Se__-_Lata_Mangeshkar__M.G._Sreekumar.flac"
+    },
+    {
+      "song": "Never Been (Remix)",
+      "artist": "Wiz Khalifa",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977813812-Wiz_Khalifa_-_Never_Been__Remix_.flac"
+    },
+    {
+      "song": "Gettin' Jiggy Wit It (DJ Scratch Remix)",
+      "artist": "Will Smith",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979786202-Will_Smith_-_Gettin__Jiggy_Wit_It__DJ_Scratch_Remix_.flac"
+    },
+    {
+      "song": "Halo (Techno Version)",
+      "artist": "NO EMOTION",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980251622-No_Emotion_-_Halo__Techno_Version_.flac"
+    },
+    {
+      "song": "Aankhon Se Batana",
+      "artist": "Dikshant",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-aankhon_se_batana.flac"
+    },
+    {
+      "song": "Space Oddity",
+      "artist": "David Bowie",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980319381-David_Bowie_-_Space_Oddity__2015_Remaster_.flac"
+    },
+    {
+      "song": "Ich bin ein Kind (HBz Remix)",
+      "artist": "Raket One, HBz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982396657-Raket_One_-_Ich_bin_ein_Kind__HBz_Remix_.flac"
+    },
+    {
+      "song": "Miami",
+      "artist": "Will Smith",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979637287-Will_Smith_-_Miami.flac"
+    },
+    {
+      "song": "Ajajaj (feat. Soolking)",
+      "artist": "Mert",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979569941-Mert_-_Ajajaj.flac"
+    },
+    {
+      "song": "We Found Love",
+      "artist": "Calvin Harris, Rihanna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981772582-Rihanna_-_We_Found_Love__Album_Version_.flac"
+    },
+    {
+      "song": "Angels Sippen Mashup (mit SDP & Symba)",
+      "artist": "Der Heimer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981189243-Der_Heimer_-_Angels_Sippen_Mashup.flac"
+    },
+    {
+      "song": "Wild Ones (feat. Sia)",
+      "artist": "Flo Rida",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982516619-Flo_Rida_-_Wild_Ones__feat._Sia_.flac"
+    },
+    {
+      "song": "2 Of Amerikaz Most Wanted (feat. Snoop Dogg)",
+      "artist": "2Pac",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983732599-2Pac_-_2_Of_Amerikaz_Most_Wanted.flac"
+    },
+    {
+      "song": "It Wasnt Me",
+      "artist": "Shaggy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784982802878-Shaggy_-_It_Wasn_t_Me.flac"
+    },
+    {
+      "song": "Smalltown Boy",
+      "artist": "Bronski Beat",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981102250-Bronski_Beat_-_Smalltown_Boy.flac"
+    },
+    {
+      "song": "Revenge",
+      "artist": "XXXTENTACION",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983025768-XXXTentacion_-_Revenge.flac"
+    },
+    {
+      "song": "Day 'N' Nite (Nightmare)",
+      "artist": "Kid Cudi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977701142-Kid_Cudi_-_Day__N__Nite__Nightmare_.flac"
+    },
+    {
+      "song": "Das erste Mal",
+      "artist": "Souly",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982433048-Souly_-_Das_erste_Mal.flac"
+    },
+    {
+      "song": "Saiyyan",
+      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-saiyyan.flac"
+    },
+    {
+      "song": "Oh Gott",
+      "artist": "GReeeN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980821234-GReeeN_-_Oh_Gott.flac"
+    },
+    {
+      "song": "Ghostbusters",
+      "artist": "Ray Parker, Jr.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983169638-Ray_Parker_Jr._-_Ghostbusters__from_the__Ghostbusters__Original_Motion_Picture_Soundtrack_.flac"
+    },
+    {
+      "song": "Mercy (mit Big Sean, Pusha T & 2 Chainz)",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983535597-Kanye_West_-_Mercy.flac"
+    },
+    {
+      "song": "Lucky",
+      "artist": "Britney Spears",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977525110-Britney_Spears_-_Lucky.flac"
+    },
+    {
+      "song": "Shalala Lala",
+      "artist": "Vengaboys",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977173577-Vengaboys_-_Shalala_Lala.flac"
+    },
+    {
+      "song": "Psycho, Pt. 2",
+      "artist": "Russ",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784974947925-Russ_-_Psycho__Pt._2.flac"
+    },
+    {
+      "song": "1, 2 Step (feat. Missy Elliott)",
+      "artist": "Ciara",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978580678-Ciara_-_1__2_Step__feat._Missy_Elliott___Main_.flac"
+    },
+    {
+      "song": "The Spins",
+      "artist": "Mac Miller und Empire Of The Sun",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980637789-MAC_MILLER_-_The_Spins.flac"
+    },
+    {
+      "song": "I Like That (mit Chingy, Nate Dogg & I-20)",
+      "artist": "Houston",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978385399-Houston_-_I_Like_That.flac"
+    },
+    {
+      "song": "Rasputin",
+      "artist": "Majestic, Boney M.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982235416-Majestic_-_Rasputin.flac"
+    },
+    {
+      "song": "My Nigga (mit Jeezy & Rich Homie Quan)",
+      "artist": "YG",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981959225-YG_-_My_Nigga.flac"
+    },
+    {
+      "song": "Ek Din Aap",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-ek_din_aap.flac"
+    },
+    {
+      "song": "Cha-La Head Cha-La (Dragonball Z)",
+      "artist": "Anime Allstars, Fred R\u00f6ttcher",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981014157-Anime_Allstars_-_Cha-La_Head_Cha-La__Dragonball_Z_.flac"
+    },
+    {
+      "song": "Holidae In (mit Ludacris & Snoop Dogg)",
+      "artist": "Chingy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978337648-Chingy_-_Holidae_In.flac"
+    },
+    {
+      "song": "Fall Back",
+      "artist": "Lithe",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784980077380-Lithe_-_Fall_Back.flac"
+    },
+    {
+      "song": "Flashing Lights",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981839273-Kanye_West_-_Flashing_Lights.flac"
+    },
+    {
+      "song": "Call on Me (Radio Mix)",
+      "artist": "Eric Prydz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979006041-Eric_Prydz_-_Call_on_Me__Radio_Mix_.flac"
+    },
+    {
+      "song": "Hamma! (Single Edit)",
+      "artist": "Culcha Candela",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978470285-Culcha_Candela_-_Hamma__Single_Edit.flac"
+    },
+    {
+      "song": "Glamorous (feat. Ludacris)",
+      "artist": "Fergie",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978504364-Fergie_-_Glamorous.flac"
+    },
+    {
+      "song": "Oops!...I Did It Again",
+      "artist": "Britney Spears",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981881067-Britney_Spears_-_Oops_...I_Did_It_Again.flac"
+    },
+    {
+      "song": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979151257-Lewis_Capaldi_-_Someone_You_Loved.flac"
+    },
+    {
+      "song": "Kids",
+      "artist": "MGMT",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978842326-MGMT_-_Kids.flac"
+    },
+    {
+      "song": "Word Up",
+      "artist": "Cameo",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980876061-Cameo_-_Word_Up.flac"
+    },
+    {
+      "song": "Demons",
+      "artist": "Imagine Dragons",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982648990-Imagine_Dragons_-_Demons.flac"
+    },
+    {
+      "song": "The Thrill",
+      "artist": "Wiz Khalifa, Empire Of The Sun",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977861546-Wiz_Khalifa_-_The_Thrill.flac"
+    },
+    {
+      "song": "Titanium (feat. Sia)",
+      "artist": "David Guetta",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978749434-David_Guetta_-_Titanium__feat._Sia_.flac"
+    },
+    {
+      "song": "Fall Back",
+      "artist": "Lithe",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981996564-Lithe_-_Fall_Back.flac"
+    },
+    {
+      "song": "Sexy Bitch (feat. Akon)",
+      "artist": "David Guetta",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978711316-David_Guetta_-_Sexy_Bitch__feat._Akon_.flac"
+    },
+    {
+      "song": "Hot Together",
+      "artist": "The Pointer Sisters",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980149960-The_Pointer_Sisters_-_Hot_Together.flac"
+    },
+    {
+      "song": "Dior 2001",
+      "artist": "RIN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784975160891-RIN_-_Dior_2001.flac"
+    },
+    {
+      "song": "Saaiyaan",
+      "artist": "Salim-Sulaiman",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-saaiyaan_from_heroine.flac"
+    },
+    {
+      "song": "Mann Mera",
+      "artist": "Gajendra Verma",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-mann_mera.flac"
+    },
+    {
+      "song": "Daddy Cool",
+      "artist": "Boney M.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982325668-Boney_M._-_Daddy_Cool.flac"
+    },
+    {
+      "song": "Raabta",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-raabta.flac"
+    },
+    {
+      "song": "Team",
+      "artist": "Lorde",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980598007-Lorde_-_Team.flac"
+    },
+    {
+      "song": "The Real Slim Shady",
+      "artist": "Eminem",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784974690176-Eminem_-_The_Real_Slim_Shady.flac"
+    },
+    {
+      "song": "Let's Get Loud",
+      "artist": "Jennifer Lopez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980674457-Jennifer_Lopez_-_Let_s_Get_Loud.flac"
+    },
+    {
+      "song": "56 Nights",
+      "artist": "Future",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977738866-Future_-_56_Nights.flac"
+    },
+    {
+      "song": "Born To Be Alive (Remix -\u00a0Extended)",
+      "artist": "Patrick Hernandez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982034937-Patrick_Hernandez_-_Born_To_Be_Alive__Remix_-_Extended_.flac"
+    },
+    {
+      "song": "Put Your Head On My Shoulder",
+      "artist": "Paul Anka",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978285330-Paul_Anka_-_Put_Your_Head_On_My_Shoulder__1_.flac"
+    },
+    {
+      "song": "On My Mind",
+      "artist": "Diplo, SIDEPIECE",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979832292-Diplo_-_On_My_Mind.flac"
+    },
+    {
+      "song": "Something New (feat. Ty Dolla $ign)",
+      "artist": "Wiz Khalifa",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976561223-Wiz_Khalifa_-_Something_New__feat._Ty_Dolla__ign_.flac"
+    },
+    {
+      "song": "luther",
+      "artist": "Kendrick Lamar, SZA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981146153-Kendrick_Lamar_-_luther.flac"
+    },
+    {
+      "song": "Let Me Blow Ya Mind (feat. Gwen Stefani)",
+      "artist": "Eve",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982617552-Eve_-_Let_Me_Blow_Ya_Mind.flac"
+    },
+    {
+      "song": "Invincible",
+      "artist": "Pop Smoke",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983659655-Pop_Smoke_-_Invincible.flac"
+    },
+    {
+      "song": "Move Your Feet",
+      "artist": "Junior Senior",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784982912390-Junior_Senior_-_Move_Your_Feet__Radio_Edit_.flac"
+    },
+    {
+      "song": "Piece of Me",
+      "artist": "Britney Spears",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981807171-Britney_Spears_-_Piece_of_Me.flac"
+    },
+    {
+      "song": "Wave Rider Halcon Bass Remix",
+      "artist": "Halcon Bass",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983324751-Halcon_Bass_-_Wave_Rider_Halcon_Bass_Remix.flac"
+    },
+    {
+      "song": "Beggin'",
+      "artist": "Masove, Niteblue und Milcon",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980216613-Masove_-_Beggin_.flac"
+    },
+    {
+      "song": "S&M",
+      "artist": "Rihanna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979409288-Rihanna_-_S_M.flac"
+    },
+    {
+      "song": "Jenny from the Block (Track Masters Remix) (mit Styles P. & Jadakiss)",
+      "artist": "Jennifer Lopez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979107877-Jennifer_Lopez_-_Jenny_from_the_Block__feat._Styles_P.___Jadakiss___Track_Masters_Remix_.flac"
+    },
+    {
+      "song": "Mr. Policeman",
+      "artist": "Rick James",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983066406-Rick_James_-_Mr._Policeman.flac"
+    },
+    {
+      "song": "Boombastic",
+      "artist": "Shaggy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784982871197-Shaggy_-_Boombastic.flac"
+    },
+    {
+      "song": "Let Me Think About It (Radio Edit)",
+      "artist": "Ida Corr, Fedde Le Grand",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978900749-Ida_Corr_-_Let_Me_Think_About_It.flac"
+    },
+    {
+      "song": "Sing Hallelujah!",
+      "artist": "Dr. Alban",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980450258-Dr._Alban_-_Sing_Hallelujah___Short_Version_.flac"
+    },
+    {
+      "song": "Good Feeling",
+      "artist": "Flo Rida",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982185583-Flo_Rida_-_Good_Feeling.flac"
+    },
+    {
+      "song": "Part II",
+      "artist": "Redman, Method Man",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784977999129-Method_Man_-_Part_II.flac"
+    },
+    {
+      "song": "Ishq Di Baajiyaan",
+      "artist": "Shankar Ehsaan Loy, Diljit Dosanjh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-kabhi_usey_noor_noor_kehta_hoon_trending.flac"
+    },
+    {
+      "song": "SOUTH MEMPHIS",
+      "artist": "LXST CXNTURY",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981921915-lxst_cxntury_-_SOUTH_MEMPHIS.flac"
+    },
+    {
+      "song": "Der Weg",
+      "artist": "Herbert Gr\u00f6nemeyer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979942940-Herbert_Gr_nemeyer_-_Der_Weg.flac"
+    },
+    {
+      "song": "acid blue",
+      "artist": "IVOXYGEN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978110982-IVOXYGEN_-_acid_blue.flac"
+    },
+    {
+      "song": "Teenage Dream",
+      "artist": "Katy Perry",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983276957-Katy_Perry_-_Teenage_Dream.flac"
+    },
+    {
+      "song": "Macarena (Slowed / Operation Desert Storm Edition)",
+      "artist": "Elliot Sutton",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784974875013-Elliot_Sutton_-_Macarena__Slowed___Operation_Desert_Storm_Edition_.flac"
+    },
+    {
+      "song": "Hey Sexy Lady (feat. Brian & Tony Gold)",
+      "artist": "Shaggy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979606655-Shaggy_-_Hey_Sexy_Lady.flac"
+    },
+    {
+      "song": "You Spin Me Round (Like A Record)",
+      "artist": "Gigi D'Agostino",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982285866-Gigi_D_Agostino_-_You_Spin_Me_Round__Like_A_Record_.flac"
+    },
+    {
+      "song": "Pour La Famille",
+      "artist": "THIZZY52",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784975079382-THIZZY52_-_Pour_La_Famille.flac"
+    },
+    {
+      "song": "Hot Shot",
+      "artist": "Shaggy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983494256-Shaggy_-_Hot_Shot.flac"
+    },
+    {
+      "song": "Give Me Everything (feat. Nayer)",
+      "artist": "Pitbull, Afrojack, Ne-Yo",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983413436-Pitbull_-_Give_Me_Everything__feat._Nayer_.flac"
+    },
+    {
+      "song": "We Be Burnin",
+      "artist": "Sean Paul",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979063650-Sean_Paul_-_We_Be_Burnin.flac"
+    },
+    {
+      "song": "Hot Summer (Radio Edit)",
+      "artist": "Monrose",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979183279-Monrose_-_Hot_Summer__Radio_Edit_.flac"
+    },
+    {
+      "song": "Coconut",
+      "artist": "GReeeN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980752651-GReeeN_-_Coconut.flac"
+    },
+    {
+      "song": "Where Them Girls At (mit Flo Rida & Nicki Minaj)",
+      "artist": "David Guetta",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978673262-David_Guetta_-_Where_Them_Girls_At__feat._Nicki_Minaj___Flo_Rida_.flac"
+    },
+    {
+      "song": "All The Things She Said",
+      "artist": "t.A.T.u.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978545010-t.A.T.u._-_All_The_Things_She_Said.flac"
+    },
+    {
+      "song": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "artist": "Bizarrap, Daddy Yankee",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976454018-Bizarrap_-_Daddy_Yankee__Bzrp_Music_Sessions__Vol._0_66.flac"
+    },
+    {
+      "song": "Every Breath You Take",
+      "artist": "The Police",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784975568254-The_Police_-_Every_Breath_You_Take.flac"
+    },
+    {
+      "song": "The Next Episode (mit Snoop Dogg, Kurupt & Nate Dogg)",
+      "artist": "Dr. Dre",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784974774927-Dr._Dre_-_The_Next_Episode.flac"
+    },
+    {
+      "song": "I Do",
+      "artist": "Chingy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978211179-Chingy_-_I_Do.flac"
+    },
+    {
+      "song": "Teri Deewani",
+      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-teri_deewani.flac"
+    },
+    {
+      "song": "I Love Rock 'N Roll",
+      "artist": "Joan Jett & the Blackhearts",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981369764-Joan_Jett_and_the_Blackhearts_-_I_Love_Rock__N_Roll.flac"
+    },
+    {
+      "song": "Beete Lamhein",
+      "artist": "K.K.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-beete_lamhein_from_the_train.flac"
+    },
+    {
+      "song": "I'll Be Missing You (mit Faith Evans & 112)",
+      "artist": "P. Diddy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979272053-Diddy_-_I_ll_Be_Missing_You__feat._Faith_Evans___112___2014_Remaster_.flac"
+    },
+    {
+      "song": "Superstar",
+      "artist": "Jamelia",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978613527-Jamelia_-_Superstar.flac"
+    },
+    {
+      "song": "Why Don't You Get A Job",
+      "artist": "The Offspring",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978052888-The_Offspring_-_Why_Don_t_You_Get_A_Job.flac"
+    },
+    {
+      "song": "Don't Stop The Music",
+      "artist": "Rihanna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982567760-Rihanna_-_Don_t_Stop_The_Music.flac"
+    },
+    {
+      "song": "Intentions (feat. Quavo)",
+      "artist": "Justin Bieber",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784975229400-Justin_Bieber_-_Intentions.flac"
+    },
+    {
+      "song": "Where Is the Love?",
+      "artist": "The Black Eyed Peas",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784978965601-Black_Eyed_Peas_-_Where_Is_The_Love_.flac"
+    },
+    {
+      "song": "If I Can't",
+      "artist": "50 Cent",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784981717946-50_Cent_-_If_I_Can_t.flac"
+    },
+    {
+      "song": "Hot Stuff",
+      "artist": "Kygo, Donna Summer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976744469-Kygo_-_Hot_Stuff.flac"
+    },
+    {
+      "song": "Angel (feat. Rayvon)",
+      "artist": "Shaggy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784982836455-Shaggy_-_Angel.flac"
+    },
+    {
+      "song": "Ride",
+      "artist": "twenty one pilots",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784975192988-Twenty_One_Pilots_-_Ride.flac"
+    },
+    {
+      "song": "Wake Me Up Before You Go-Go",
+      "artist": "WHAM!",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784974736495-Wham__-_Wake_Me_Up_Before_You_Go-Go.flac"
+    },
+    {
+      "song": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979368995-Sean_Paul_-_She_Doesn_t_Mind.flac"
+    },
+    {
+      "song": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981215340-Kendrick_Lamar_-_Not_Like_Us.flac"
+    },
+    {
+      "song": "Family Affair",
+      "artist": "Mary J. Blige",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983818715-Mary_J._Blige_-_Family_Affair.flac"
+    },
+    {
+      "song": "Imagination (feat. Katy Menditta)",
+      "artist": "Gorgon City",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979502303-Gorgon_City_-_Imagination.flac"
+    },
+    {
+      "song": "Talk of the Town",
+      "artist": "Fred again.., Sammy Virji, Reggie",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976315015-Fred_again.._-_Talk_of_the_Town.flac"
+    },
+    {
+      "song": "No Diggity (mit Queen Pen & Dr. Dre)",
+      "artist": "Blackstreet",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983623076-Blackstreet_-_No_Diggity.flac"
+    },
+    {
+      "song": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981248323-Natasha_Bedingfield_-_Unwritten.flac"
+    },
+    {
+      "song": "Without You (feat. Usher)",
+      "artist": "David Guetta",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978643001-David_Guetta_-_Without_You__feat._Usher_.flac"
+    },
+    {
+      "song": "My Girl",
+      "artist": "The Temptations",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978157794-The_Temptations_-_My_Girl.flac"
+    },
+    {
+      "song": "Hit 'Em Up Style (Oops!)",
+      "artist": "Blu Cantrell",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976936555-Blu_Cantrell_-_Hit__Em_Up_Style__Oops__.flac"
+    },
+    {
+      "song": "Area Codes (feat. Nate Dogg)",
+      "artist": "Ludacris",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784980005567-Ludacris_-_Area_Codes.flac"
+    },
+    {
+      "song": "F\u00e4uste hoch",
+      "artist": "Irie R\u00e9volt\u00e9s",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976490879-Irie_R_volt_s_-_F_uste_hoch.flac"
+    },
+    {
+      "song": "The Ketchup Song (Aserej\u00e9) (Spanish Version)",
+      "artist": "Las Ketchup",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980544796-Las_Ketchup_-_The_Ketchup_Song__Aserej____Spanish_Version_.flac"
+    },
+    {
+      "song": "NIGHT DANCER",
+      "artist": "imase",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/001rajguptakonaman-hash-1784976080502-NIGHT_DANCER_-_imase.flac"
+    },
+    {
+      "song": "Rock mi (Remix)",
+      "artist": "Voxxclub",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977105846-voXXclub_-_Rock_mi__Remix_.flac"
+    },
+    {
+      "song": "BILLIE EILISH LEGENDS MIX. (mit Ludacris, Busta Rhymes & N.O.R.E.)",
+      "artist": "Armani White",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977244666-Armani_White_-_BILLIE_EILISH_LEGENDS_MIX..flac"
+    },
+    {
+      "song": "Banjaara",
+      "artist": "Mohammed Irfan, Mithoon",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-banjaara.flac"
+    },
+    {
+      "song": "COM\u00cb N GO",
+      "artist": "Yeat",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784975118657-Yeat_-_COM__N_GO.flac"
+    },
+    {
+      "song": "Aval",
+      "artist": "Santhosh Narayanan, Pradeep Kumar, Priya Hemesh, and Vivek",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vivekvijayan20-1784978258649-1-01._Aval.flac"
+    },
+    {
+      "song": "rockstar (feat. 21 Savage)",
+      "artist": "Post Malone",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784982742464-Post_Malone_-_rockstar.flac"
+    },
+    {
+      "song": "When Love Takes Over (feat. Kelly Rowland)",
+      "artist": "David Guetta",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977475443-David_Guetta_-_When_Love_Takes_Over__feat._Kelly_Rowland_.flac"
+    },
+    {
+      "song": "Hits from the Bong",
+      "artist": "Cypress Hill",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979974629-Cypress_Hill_-_Hits_from_the_Bong.flac"
+    },
+    {
+      "song": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "artist": "M\u00fcnchener Freiheit",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784979880511-M_nchener_Freiheit_-_Ohne_Dich__schlaf__ich_heut_Nacht_nicht_ein_.flac"
+    },
+    {
+      "song": "Window Shopper",
+      "artist": "50 Cent",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983779410-50_Cent_-_Window_Shopper.flac"
+    },
+    {
+      "song": "Beat It (mit Chris Brown & Wiz Khalifa)",
+      "artist": "Sean Kingston",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784976646740-Sean_Kingston_-_Beat_It__feat._Chris_Brown___Wiz_Khalifa_.flac"
+    },
+    {
+      "song": "Tainted Love",
+      "artist": "Soft Cell",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784982149677-Soft_Cell_-_Tainted_Love.flac"
+    },
+    {
+      "song": "Zwickt's mi",
+      "artist": "Wolfgang Ambros",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784981334262-Wolfgang_Ambros_-_Zwickt_s_mi.flac"
+    },
+    {
+      "song": "Jashn-E-Bahaaraa",
+      "artist": "A.R. Rahman, Javed Ali",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-jashnebahaaraa.flac"
+    },
+    {
+      "song": "Titanium (feat. Sia)",
+      "artist": "David Guetta",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784977417050-David_Guetta_-_Titanium__feat._Sia_.flac"
+    },
+    {
+      "song": "casino143",
+      "artist": "IVOXYGEN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784978082615-IVOXYGEN_-_casino143.flac"
+    },
+    {
+      "song": "Maneater",
+      "artist": "Release - Topic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784980497140-Nelly_Furtado_-_Maneater.flac"
+    },
+    {
       "song": "I'll Do It",
       "artist": "Heidi Montag",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/001rajguptakonaman-hash-1784965864036-I_ll_Do_It_-_Heidi_Montag.flac"
